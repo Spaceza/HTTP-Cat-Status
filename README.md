@@ -17,7 +17,7 @@ Projeto divertido e educativo que busca imagens de gatos representando **código
 
 ## 📸 Preview
 
-![preview](43ada5ec-63e4-435a-b0b2-6a64447d1992.png)
+![preview](CAT-Preview.png)
 
 ## 🧠 Objetivo do Projeto
 
