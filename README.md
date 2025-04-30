@@ -7,24 +7,13 @@ Projeto divertido e educativo que busca imagens de gatos representando **código
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-- **Cypress** (para testes automatizados)
-- **Bootstrap** (para estilização rápida e responsiva)
+- **Bootstrap** (para estilização rápida e responsividade)
 
 ## 🚀 Funcionalidades
 
 - Busca por código HTTP (ex: 200, 404, 500)
 - Exibição de imagens temáticas dos status via [HTTP Cat API](https://http.cat)
 - Layout leve e responsivo
-- Testes automatizados com Cypress para validar comportamento
-
-## 🧪 Testes com Cypress
-
-Este projeto conta com automações usando o **Cypress** para garantir:
-
-- Retorno correto das imagens de status
-- Funcionamento do botão "Buscar"
-- Exibição de mensagens e imagens válidas
-- Responsividade da interface
 
 ## 📸 Preview
 
@@ -39,7 +28,3 @@ Esse projeto foi criado para praticar:
 - Estilização com Bootstrap e CSS
 - Automação de testes com Cypress
 - Integração divertida entre aprendizado e humor 😸
-
-## ✒️ Colaboração
-
-- Dev - [Lucas](https://github.com/Chaves777)
