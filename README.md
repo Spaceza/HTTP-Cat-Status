@@ -26,5 +26,4 @@ Esse projeto foi criado para praticar:
 - Manipulação de APIs com JavaScript
 - Interação com o DOM em tempo real
 - Estilização com Bootstrap e CSS
-- Automação de testes com Cypress
 - Integração divertida entre aprendizado e humor 😸
